@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+langdetect
+emoji
+regex
