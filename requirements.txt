@@ -1,3 +1,5 @@
+requirements for this project
+
 streamlit
 pandas
 matplotlib
